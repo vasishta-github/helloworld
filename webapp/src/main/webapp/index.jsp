@@ -1,2 +1,2 @@
 <h1> Hello, Everyone !!! </h1>
-<h2> welcome all </h2>
+<h1> welcome all </h1>
